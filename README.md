@@ -3,18 +3,18 @@ Modeled Care Pathways
 This repository contains a sample of 84 care pathways that have been modeled using the language proposed on our work.
 
 The care pathways modeled so far are:
-__________________________________________________
-In english:
-Acute Pediatric Diarrhea 
-Asthma 
-Bandage 
-Cerebrovascular Accident - Cva 
-Eng - Premature Amniorrhexis 
-Pediatric Conjunctivitis 
-Pediatric Sepsis 
-PIH - Pregnancy-Induced Hypertension 
-Puerperal Endometritis 
-Syphillis
+
+In English:
+\nAcute Pediatric Diarrhea 
+\nAsthma 
+\nBandage 
+\nCerebrovascular Accident - Cva 
+\nEng - Premature Amniorrhexis 
+\nPediatric Conjunctivitis 
+\nPediatric Sepsis 
+\nPIH - Pregnancy-Induced Hypertension 
+\nPuerperal Endometritis 
+\nSyphillis
 __________________________________________________
 In portuguese:
 Acne
